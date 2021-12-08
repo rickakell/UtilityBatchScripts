@@ -1,4 +1,4 @@
-REM ECHO OFF
+REM @ECHO OFF
 
 REM Remove REM from line one to silence this script
 REM Disclaimer, I promise nothing about this script
